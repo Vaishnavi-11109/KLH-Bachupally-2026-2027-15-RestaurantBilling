@@ -14,6 +14,16 @@
 ------------
  The Restaurant Order, Kitchen & Billing System is a Java-based application designed to manage the basic operations of a restaurant. The system allows users to place customer orders, manage ordered items, track kitchen orders, calculate the total bill, and display the final billing details. The project aims to reduce manual work, organize restaurant operations, and provide a simple and efficient way to handle orders and billing.
 
+Project Structure
+-----------------
+src/      - Java source code
+docs/     - Project documentation
+data/     - Data or documented data sources
+results/  - Project results and outputs
+reports/  - Project reports
+README.md - Project information and instructions
+
+
 ## Setup Instructions
 ----------------------
 1. Install Java Development Kit (JDK).
@@ -51,12 +61,3 @@ Next phase:
 - Implement billing functionality
 - Test the application
 
-
-Project Structure
------------------
-src/      - Java source code
-docs/     - Project documentation
-data/     - Data or documented data sources
-results/  - Project results and outputs
-reports/  - Project reports
-README.md - Project information and instructions
