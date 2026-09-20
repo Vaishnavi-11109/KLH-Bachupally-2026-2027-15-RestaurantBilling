@@ -16,12 +16,12 @@
 
 Project Structure
 -----------------
-src/      - Java source code
-docs/     - Project documentation
-data/     - Data or documented data sources
-results/  - Project results and outputs
-reports/  - Project reports
-README.md - Project information and instructions
+• src/      - Java source code  
+• docs/     - Project documentation  
+• data/     - Data or documented data sources  
+• results/  - Project results and outputs  
+• reports/  - Project reports  
+• README.md - Project information and instructions  
 
 
 ## Setup Instructions
