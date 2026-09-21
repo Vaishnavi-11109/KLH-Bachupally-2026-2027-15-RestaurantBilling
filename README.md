@@ -9,7 +9,7 @@
 
 ## Supervisor
  -------------
- Rakesh Sir
+ Mr.Rakesh
 
 ## Abstract
 ------------
